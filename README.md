@@ -10,7 +10,6 @@
 </a>
 
 <br/>
-[![Repo Count](https://raw.githubusercontent.com/mkpg/github-badge/main/github-repo-count.svg)](https://github.com/mkpg)
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=mkpg&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
