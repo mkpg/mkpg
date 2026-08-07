@@ -3,7 +3,7 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manikandaprabu%20V%20K&fontSize=45&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
 
-<!-- Typing SVG -->
+<!-- Typing SVG --> 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+AI+%26+Data+Science+Engineer;🔥+Building+Intelligent+Systems;🚀+Open+Source+Enthusiast;💡+Turning+Data+into+Decisions" alt="Typing SVG" />
 </a>
