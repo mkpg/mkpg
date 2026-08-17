@@ -4,9 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manikandaprabu%20V%20K&fontSize=45&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/> 
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+AI+%26+Data+Science+Engineer;🔥+Building+Intelligent+Systems;🚀+Open+Source+Enthusiast;💡+Turning+Data+into+Decisions" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%96%20AI%20%26%20Data%20Science%20Engineer;%F0%9F%94%A5%20Building%20Intelligent%20Systems;%F0%9F%9A%80%20Open%20Source%20Enthusiast;%F0%9F%92%A1%20Turning%20Data%20into%20Decisions" alt="Typing SVG">
+  </a>
+</p>
 
 <br/>
 <!-- Profile Views & Social Badges -->
